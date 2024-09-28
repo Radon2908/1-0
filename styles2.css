@@ -1,0 +1,9 @@
+.my {
+  background-image: url('image.jpg'); 
+  background-position: center center; 
+  background-size: cover;
+}
+
+.cr {
+  color: white;
+}
